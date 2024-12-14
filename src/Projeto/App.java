@@ -6,6 +6,8 @@ public class App {
 		// TODO Auto-generated method stub
 		
 		System.out.printf("Versão 1");
+		
+		System.out.printf("Versão resetada");
 
 	}
 
