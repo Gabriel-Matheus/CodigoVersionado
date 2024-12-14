@@ -8,7 +8,10 @@ public class App {
 		System.out.printf("Versão 1 ");
 		
 		//branch1
-		System.out.printf("Agora tem 1 branch");
+		System.out.printf("Agora tem 1 branch ");
+		
+		//agora dei merge
+		System.out.printf("Agora dei Merge");
 
 	}
 
